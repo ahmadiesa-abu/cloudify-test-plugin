@@ -56,6 +56,7 @@ setup(
     install_requires=[
         # Necessary dependency for developing plugins, do not remove!
         "cloudify-common>=7.1.0.dev1",
+        "pyvmomi>=6.7.3,<8.0.0",
         "vapi-runtime==2.40.0",
         "vapi-common-client==2.40.0",
         "vcenter-bindings==4.1.0"
