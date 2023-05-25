@@ -1,0 +1,6 @@
+git+https://github.com/cloudify-cosmo/cloudify-common@master#egg=cloudify-common==7.1.0.dev1
+libs/vapi_common_client-2.40.0-py2.py3-none-any.whl
+libs/vapi_runtime-2.40.0-py2.py3-none-any.whl
+libs/vcenter_bindings-4.1.0-py2.py3-none-any.whl
+pyyaml
+nose
